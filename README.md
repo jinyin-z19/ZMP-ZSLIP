@@ -36,7 +36,7 @@ $$
 the xy balance
 
 $$
-p_x = x + \frac{z}{g + \ddot z} \ddot x
+p_x = x - \frac{z}{g + \ddot z} \ddot x
 $$
 
 so 
