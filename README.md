@@ -36,6 +36,12 @@ $$
 the xy balance
 
 $$
+p_x = x + \frac{z}{g + \ddot z} \ddot x
+$$
+
+so 
+
+$$
 p_x = x + \frac{m}{k} \frac{z}{z - z_{set}} \ddot x
 $$
 
@@ -43,12 +49,6 @@ limitation
 
 $$
 P_{min} < p_x < P_{max}
-$$
-
-so 
-
-$$
-p_x = x + \frac{m}{k} \frac{z}{z - z_{set}} \ddot x
 $$
 
 **simplify energy control**
